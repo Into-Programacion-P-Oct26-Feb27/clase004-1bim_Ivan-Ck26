@@ -16,7 +16,9 @@ public class Ejemplo04 {
         int nacimiento = 1983;
         System.out.print(nombreEstudiante);
         System.out.print(apellidoEstudiante);
-        System.out.print(nacimiento + " ");
+        System.out.print(nacimiento);
         System.out.print(nombreEstudiante);
     }
 }
+// Para que sirve el system.print: El print sirve para textos sin hacer salto 
+//linea final 
